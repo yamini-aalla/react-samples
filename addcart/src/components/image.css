@@ -1,0 +1,36 @@
+#cart0{
+	position: absolute;
+	top: 100px;
+	right: 150px;
+	
+	color: blue;
+	width: 200px;
+	height:300px;
+}
+#cart{
+	position: absolute;
+	top: 150px;
+	right: 150px;
+	
+	color: violet;
+	width: 200px;
+	height:300px;
+}
+#cart1{
+	position: absolute;
+	top: 180px;
+	right: 150px;
+
+	color: violet;
+	width: 200px;
+	height:300px;
+}
+#cart2{
+	position: absolute;
+	top: 210px;
+	right: 150px;
+
+	color: violet;
+	width: 200px;
+	height:300px;
+}
