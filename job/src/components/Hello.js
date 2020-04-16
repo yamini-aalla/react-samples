@@ -3,7 +3,6 @@ import React from 'react'
 function Hello (){
 	return(
 		hi
-
 		yamini
 		)
 }
